@@ -1,5 +1,0 @@
-RMatArrayApi.java: Array-based implementation of RMat that can be used as an API.
-RMatArrayApp.java: Array-based implementation of RMat that can be executed by command line.
-RMatMatrix.java: Matrix-based implementation of RMat.  
-
-AppTest.java: Main class to test the app version of the implementation
