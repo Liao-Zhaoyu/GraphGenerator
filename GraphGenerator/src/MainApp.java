@@ -8,7 +8,7 @@ import rmat.RMatMatrixApp;
  */
 /**
  *
- * @author renzo
+ * @author Renzo Angles
  */
 public class MainApp {
 
